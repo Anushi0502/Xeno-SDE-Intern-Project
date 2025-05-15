@@ -55,8 +55,8 @@ src/
 ### 1. 🧱 Clone & Install
 
 ```bash
-git clone https://github.com/u2508/XENO-SDE-PROJECT
-cd XENO-SDE-PROJECT
+git clone https://github.com/Anushi0502/Xeno-SDE-Intern-Project
+cd Xeno-SDE-Intern-Project
 npm install
 ````
 
